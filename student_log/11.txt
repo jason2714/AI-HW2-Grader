@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "autograder.py", line 345, in <module>
+    moduleDict['multiAgents'] = loadModuleFile(moduleName, os.path.join(options.codeRoot, cp))
+  File "autograder.py", line 133, in loadModuleFile
+    with open(filePath, 'r') as f:
+IOError: [Errno 2] No such file or directory: 'student_code/11_hw2.py'

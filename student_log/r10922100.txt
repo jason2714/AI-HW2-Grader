@@ -1,0 +1,79 @@
+Starting on 3-25 at 16:45:37
+
+Question q1
+===========
+
+Pacman emerges victorious! Score: 708
+Pacman died! Score: -410
+Pacman died! Score: -264
+Pacman died! Score: -250
+Pacman died! Score: -176
+Pacman died! Score: -101
+Pacman died! Score: -222
+Pacman died! Score: -155
+Pacman died! Score: -374
+Pacman died! Score: -278
+Average Score: -152.2
+Scores:        708.0, -410.0, -264.0, -250.0, -176.0, -101.0, -222.0, -155.0, -374.0, -278.0
+Win Rate:      1/10 (0.10)
+Record:        Win, Loss, Loss, Loss, Loss, Loss, Loss, Loss, Loss, Loss
+*** FAIL: test_cases\q1\grade-agent.test (0 of 100 points)
+***     -152.2 average score (fail: below minimum value 200)
+***         Grading scheme:
+***          < 200:  fail
+***         >= 200:  0 points
+***         >= 500:  5 points
+***         >= 1000:  8 points
+***         >= 1450:  10 points
+***     10 games not timed out (0 of 0 points)
+***         Grading scheme:
+***          < 10:  fail
+***         >= 10:  0 points
+***     1 wins (0 of 10 points)
+***         Grading scheme:
+***          < 1:  fail
+***         >= 1:  0 points
+***         >= 5:  5 points
+***         >= 9:  8 points
+***         >= 10:  10 points
+
+### Question q1: 0/20 ###
+
+
+Question q2
+===========
+
+*** Method not implemented: getAction at line 149 of r10922100_hw2.py
+*** FAIL: Terminated with a string exception.
+
+### Question q2: 0/30 ###
+
+
+Question q3
+===========
+
+*** Method not implemented: getAction at line 161 of r10922100_hw2.py
+*** FAIL: Terminated with a string exception.
+
+### Question q3: 0/30 ###
+
+
+Question q4
+===========
+
+*** Method not implemented: getAction at line 176 of r10922100_hw2.py
+*** FAIL: Terminated with a string exception.
+
+### Question q4: 0/30 ###
+
+
+Finished at 16:45:39
+
+Provisional grades
+==================
+Question q1: 0/20
+Question q2: 0/30
+Question q3: 0/30
+Question q4: 0/30
+------------------
+Total: 0/110
