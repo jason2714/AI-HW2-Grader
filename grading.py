@@ -72,7 +72,7 @@ class Grades:
 
       if self.mute: util.mutePrint()
       try:
-        time_limit = 5
+        time_limit = 10
         if q == 'q1':
           time_limit = 180
         util.TimeoutFunction(getattr(gradingModule, q),time_limit)(self) # Call the question's function
